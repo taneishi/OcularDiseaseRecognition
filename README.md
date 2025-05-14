@@ -1,4 +1,4 @@
-# Classification of Ocular Diseases
+# Classification of Ocular Diseases based on Fundus Images
 
 ## Introduction
 
